@@ -29,5 +29,4 @@ users.csv     sample user data
 - Passwords are stored in plain text in `users.csv`. This is fine for a
   learning project, but a real system would store salted password hashes.
   Don't reuse any real password in the sample data.
-- The README in the bootcamp template is what this file replaces. The
-  sprint brief isn't included here.
+- The sprint brief isn't included in this repo.
